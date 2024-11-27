@@ -1,8 +1,6 @@
 
 # DocuLens: Automated Policy Documents Analysis Tool
 
-DocuLens is a Python-based desktop application for analyzing policy documents. It allows users to count the occurrences of specific words in a set of PDF files, as defined in an Excel file. Results are saved to an Excel file, including detailed counts and statistical information for further analysis.
-
 ## Features
 - **Batch PDF Processing**: Analyze multiple PDF files in one go.
 - **Custom Word List**: Provide a custom list of words via an Excel file.
