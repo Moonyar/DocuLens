@@ -111,6 +111,8 @@ Sharafi-Laleh, M., & Ganter, S. A. (2024). DocuLens: Automated Policy Documents 
 ---
 
 ## Acknowledgments
+This work was supported by the Social Sciences and Humanities Research Council of Canada (SSHRC) through the Insight Development Grant, Grant Number: 430-2021-00900. We sincerely acknowledge their funding and support, which made this project possible.
+
 Special thanks to the open-source community for providing tools and libraries that made this project possible.
 
 ---
